@@ -1,0 +1,16 @@
+# MATLAB 自动生成的文件
+*.asv
+*.m~
+*.mex*
+
+# 数据和结果目录
+/data/*
+/results/*
+
+# 但是保留 .gitkeep 文件
+!data/.gitkeep
+!results/.gitkeep
+
+# 操作系统生成的文件
+.DS_Store
+Thumbs.db
