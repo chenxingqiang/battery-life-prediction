@@ -1,0 +1,32 @@
+Processing dataset: B0005
+VMD Decomposition plot created successfully.
+Capacity Regeneration Correlation plot created successfully.
+Temperature Impact plot created successfully.
+Capacity Prediction plot created successfully.
+SOH Prediction plot created successfully.
+Prediction PDF plot created successfully.
+Figure saved as results_B0005.png
+Processing dataset: B0006
+VMD Decomposition plot created successfully.
+Capacity Regeneration Correlation plot created successfully.
+Temperature Impact plot created successfully.
+Capacity Prediction plot created successfully.
+SOH Prediction plot created successfully.
+Prediction PDF plot created successfully.
+Figure saved as results_B0006.png
+Processing dataset: B0007
+VMD Decomposition plot created successfully.
+Capacity Regeneration Correlation plot created successfully.
+Temperature Impact plot created successfully.
+Capacity Prediction plot created successfully.
+SOH Prediction plot created successfully.
+Prediction PDF plot created successfully.
+Figure saved as results_B0007.png
+Processing dataset: B0018
+VMD Decomposition plot created successfully.
+Capacity Regeneration Correlation plot created successfully.
+Temperature Impact plot created successfully.
+Capacity Prediction plot created successfully.
+SOH Prediction plot created successfully.
+Prediction PDF plot created successfully.
+Figure saved as results_B0018.png
