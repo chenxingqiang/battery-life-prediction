@@ -4,6 +4,7 @@
 % 清除工作空间和命令窗口
 clear;
 clc;
+close all;
 
 % 获取当前脚本的路径
 script_path = fileparts(mfilename('fullpath'));
